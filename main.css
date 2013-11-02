@@ -13,6 +13,19 @@ body {
 p {color: #660066;
 	font: 12pt, 'Monotype Corsiva' sans-serif;
 	}
+
+p.bubble{text-align: left; 
+			opacity:1.25;
+			color: #311D39; 
+			background-color: #9B8E7E;
+			font: 14pt  'Monotye Corsiva' sans-serif;
+			border-style: solid; 
+			border-color: #311D39;
+			border-radius: 20px;
+			padding: 0.2in;
+			}
+
+
 h1{text-align: left;
 		font: 30pt 'Monotye Corsiva' sans-serif;
 		color: #311D39;
@@ -23,7 +36,7 @@ h1{text-align: left;
 
 h2{font: 20pt 'Monotye Corsiva' sans-serif;
 		text-align: left;
-		color : #660066;
+		color : #311D39;
 		}
 		
 
@@ -42,6 +55,18 @@ div.navigation_bar{
 	height: 30px;
 	padding-top:0cm;
 	margin-top: 0cm;
+	<table>
+		<tr>
+			<td>
+				Tea menu
+			</td>
+			<td>
+				Kittens of Troy
+			</td>
+			<td>
+			</td>
+		</tr>
+	</table>
 }
 
 div.main_panel{
